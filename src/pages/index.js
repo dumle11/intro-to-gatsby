@@ -1,3 +1,11 @@
 import React from "react"
 
-export default () => <div>Hello world!</div>
+const RenderHelloPage = () => {
+    return (
+        <>
+            Hello There!
+        </>
+    );
+}
+
+export default RenderHelloPage
